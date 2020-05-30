@@ -5,7 +5,7 @@ Configuration can be changed in the file ```configuration.py```. The script logs
 with each line being a json document representing one test result.
 
 # Installation
-- ```git clone git```
+- ```git clone https://github.com/maxze/python_speedtest.git```
 - ``cd Directory``
 - ```pip install -r requirements.txt ```
 
