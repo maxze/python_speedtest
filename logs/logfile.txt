@@ -1,10 +1,1 @@
-{"Date": "2020.05.30", "Time": "10:52:47", "Download mbps": "266.910", "Upload mbps": "43.946", "Ping in ms": "32.198", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:53:19", "Download mbps": "8.289", "Upload mbps": "5.318", "Ping in ms": "32.528", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:53:52", "Download mbps": "161.714", "Upload mbps": "4.970", "Ping in ms": "31.602", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:54:31", "Download mbps": "317.863", "Upload mbps": "43.227", "Ping in ms": "26.515", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:55:03", "Download mbps": "349.996", "Upload mbps": "37.714", "Ping in ms": "26.768", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:55:34", "Download mbps": "301.909", "Upload mbps": "46.390", "Ping in ms": "29.549", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:56:06", "Download mbps": "14.028", "Upload mbps": "7.802", "Ping in ms": "29.665", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:56:40", "Download mbps": "331.446", "Upload mbps": "10.481", "Ping in ms": "33.091", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "10:57:54", "Download mbps": "286.361", "Upload mbps": "46.696", "Ping in ms": "29.541", "Test Configuration": {"upload_tested": true, "download_tested": true}}
-{"Date": "2020.05.30", "Time": "11:03:16", "Download mbps": "285.725", "Upload mbps": "11.567", "Ping in ms": "33.101", "Test Configuration": {"upload_tested": true, "download_tested": true}}
+
