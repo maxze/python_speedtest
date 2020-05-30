@@ -6,7 +6,7 @@ with each line being a json document representing one test result.
 
 # Installation
 - ```git clone https://github.com/maxze/python_speedtest.git```
-- ``cd Directory``
+- ``cd python_speedtest``
 - ```pip install -r requirements.txt ```
 
 # Usage
