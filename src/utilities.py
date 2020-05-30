@@ -7,7 +7,7 @@ from speedtest import Speedtest
 
 def has_access_to_internet():
     # tries to ping google.com to see if we're online
-    resp = requests.get("https://www.google.de")
+    resp = requests.get("https://www.google.com")
     if resp.status_code == 200:
         return True
     else:
